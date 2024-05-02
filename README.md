@@ -11,3 +11,5 @@ Para embarcarnos en este proyecto de pronóstico de la tasa de cancelación de c
 3. Análisis exploratorio de datos (EDA): Se investigarán las relaciones entre las características de los clientes y la tasa de cancelación para identificar patrones o tendencias.
 4. Selección de características: Se identificarán las características más relevantes para predecir la cancelación de clientes utilizando técnicas como la importancia de características basada en modelos.
 5. Preparación de preguntas aclaratorias: Se elaborará una lista de preguntas que surjan durante la exploración inicial de datos para discutirlas con el equipo.
+
+Hola Francisco, piesno que debes especificar claramente cual es tu variable objetivo, estqa duda me salto al ver la grafica que presentas con relacion a las fechas de terminacion de contratos. Quiza puedo estar equivocada, pero es mejor estar seguros.Saludos
